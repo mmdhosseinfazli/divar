@@ -1,0 +1,12 @@
+@media (max-width: 500px){
+    header .content{
+        flex-direction: column;
+        gap: 15px;
+    }
+    header .content .content_right{
+        flex-wrap: wrap;
+    }
+    section .content .sidebar{
+        padding: 10px;
+    }
+}
