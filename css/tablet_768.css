@@ -1,0 +1,38 @@
+@media (max-width: 768px) {
+    header .content{
+        width: 100%;
+    }
+    header .content .content_right .inputBox input{
+        padding-left: 0;
+    }
+    header .content .content_left .myDivar,header .content .content_left .chat,header .content .content_left .support{
+        display: none;
+    }
+    section .content{
+        width: 100%;
+        flex-direction: column;
+    }
+    section .content .sidebar{
+        width: 100%;
+    }
+    section .content .main{
+        width: 100%;
+    }
+    section .content .main .boxes{
+        flex-direction: column;
+    }
+    section .content .main .boxes .box{
+        width: calc(100% - 20px);
+        padding: 10px 0;
+        flex-direction: column;
+    }
+    section .content .main .boxes .box .info {
+        margin-bottom: 10px;
+    }
+    section .content .main .boxes .box .info h3{
+        font-size: 1.5rem;
+    }
+    section .content .main .boxes .box .imgBox{
+        width: calc(100% - 20px);
+    }
+}
