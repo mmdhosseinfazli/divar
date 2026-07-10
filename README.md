@@ -1,13 +1,12 @@
 # Divar
 
-A responsive landing page built with HTML5 and CSS3.
+A responsive(Desktop and Tablet) landing page built with HTML5 and CSS3.
 
 ## ✨ Features
 
 - Responsive design
 - Clean and semantic HTML
 - Modern CSS layout
-- Mobile friendly
 
 ## 🛠️ Technologies
 
